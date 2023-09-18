@@ -37,7 +37,7 @@ Our fine-tuned model demonstrated impressive results:
 
 ## Contact
 
-For any queries or suggestions, please contact me directly to [vishalpanda10@gmail.com](vishalpanda10@gmail.com).
+For any queries or suggestions, please reach out to me at:[vishalpanda10@gmail.com](vishalpanda10@gmail.com).
 
 
 
