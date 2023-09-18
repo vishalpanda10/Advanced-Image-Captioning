@@ -1,5 +1,4 @@
-# Image Captioning with CNN, LSTM, and Transformers
-# Advanced Image Captioning with Neural Architectural Enhancements
+# Advanced Image Captioning with Neural Architectural Enhancements(CNN, LSTM, and Transformers)
 
 
 ## Description
