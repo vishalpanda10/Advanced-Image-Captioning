@@ -16,4 +16,4 @@ Our model achieved the following performance scores:
 - BLEU-4 score: 25
 - ROUGE-L F1 Score: 48.5
 
-![](./image.jpg)
+![](./'image captioning.png')
